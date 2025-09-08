@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shayavinda Anuchana</h1>
+<h1 align="center">Hi 👋, I'm Shyavinda Anuchana</h1>
 <h3 align="center"><h3 align="center">Passionate CSE Student | Exploring, Creating, and Innovating Through Technology  </h3>
 <table align="center">
 <tr border="none">
