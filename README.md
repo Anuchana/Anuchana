@@ -4,7 +4,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Computer science and engineering**
+- 🌱 I’m currently studying **Computer science and engineering**
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
 
