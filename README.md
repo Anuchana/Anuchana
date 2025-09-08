@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
 
-- 💬 Ask me about **Java and pythin**
+- 💬 Ask me about **Java and python**
   
 - ⚡ Fun fact **I'm interested in Aerospace Computational Engineering 🛰️ **
 
